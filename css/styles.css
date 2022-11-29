@@ -10900,7 +10900,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("assets/20221101_161230.jpg");
+  background-image: url(".../assets/20221101_161230.jpg");
   background-attachment: scroll;
   background-size: cover;
   background-repeat: no-repeat;
@@ -10908,7 +10908,7 @@ header.masthead {
   transition: 0.3s ease all;
 }
 body.dark header.masthead {
-  background-image: url("assets/WhatsApp Image 2022-11-08 at 11.09.57 AM.jpeg");
+  background-image: url(".../assets/WhatsApp Image 2022-11-08 at 11.09.57 AM.jpeg");
 }
 
 header.masthead .masthead-subheading {
